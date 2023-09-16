@@ -1,4 +1,3 @@
-# Android-Portfolio
 <h1 align="center">Hi 👋, I'm Muhammad Amaz - Android Developer</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Muhammad Amaz, a skilled Android Developer with a passion for creating user-friendly and interactive Android apps. I'm currently pursuing a Bachelor's in Computer Science at GCS Lahore, Pakistan, and I have a strong foundation in Android development, including expertise in MVP/MVVM architecture, REST APIs, Java/Kotlin, Retrofit, Room Database, UI/UX Design, and Git Version Control.</h3>
 
@@ -25,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyamaz&show_icons=true&locale=en" alt="codebyamaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyamaz&" alt="codebyamaz" /></p>
+
