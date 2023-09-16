@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://codebyamaz.io)
+<img align="right" alt="Coding" width="1000" height="350" src="https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Amaz - Android Developer</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Muhammad Amaz, a skilled Android Developer with a passion for creating user-friendly and interactive Android apps. I'm currently pursuing a Bachelor's in Computer Science at GCS Lahore, Pakistan, and I have a strong foundation in Android development, including expertise in MVP/MVVM architecture, REST APIs, Java/Kotlin, Retrofit, Room Database, UI/UX Design, and Git Version Control.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
