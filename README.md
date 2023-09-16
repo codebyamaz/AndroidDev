@@ -1,21 +1,21 @@
-<img align="right" alt="Coding" width="1000" height="300" src="https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif">
+<img align="right" alt="Coding" width="1000" height="350" src="https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Amaz - Android Developer</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Muhammad Amaz, a skilled Android Developer with a passion for creating user-friendly and interactive Android apps. I'm currently pursuing a Bachelor's in Computer Science at GCS Lahore, Pakistan, and I have a strong foundation in Android development, including expertise in MVP/MVVM architecture, REST APIs, Java/Kotlin, Retrofit, Room Database, UI/UX Design, and Git Version Control.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyamaz&label=Profile%20views&color=0e75b6&style=flat" alt="codebyamaz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about • Android app development using MVP/MVVM • REST API integration • Java and Kotlin programming • Retrofit and Room Database • Git version control • Android Studio and Gradle • Jetpack Compose • Staying updated with industry trends • Problem-solving in Android • Collaborative Android app projects
+- 💬 Ask me about **• Android app development using MVP/MVVM • REST API integration • Java and Kotlin programming • Retrofit and Room Database • Git version control • Android Studio and Gradle • Jetpack Compose • Staying updated with industry trends • Problem-solving in Android • Collaborative Android app projects**
 
 - 📫 How to reach me **amaz8144@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mamaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamaz" height="30" width="40" /></a>
+<a href="https://instagram.com/amaaz.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaaz.7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
