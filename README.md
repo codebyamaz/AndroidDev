@@ -1,13 +1,15 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://codebyamaz.io)
 <h1 align="center">Hi 👋, I'm Muhammad Amaz - Android Developer</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Muhammad Amaz, a skilled Android Developer with a passion for creating user-friendly and interactive Android apps. I'm currently pursuing a Bachelor's in Computer Science at GCS Lahore, Pakistan, and I have a strong foundation in Android development, including expertise in MVP/MVVM architecture, REST APIs, Java/Kotlin, Retrofit, Room Database, UI/UX Design, and Git Version Control.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyamaz&label=Profile%20views&color=0e75b6&style=flat" alt="codebyamaz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning *Android Development*
 
-- 💬 Ask me about **• Android app development using MVP/MVVM • REST API integration • Java and Kotlin programming • Retrofit and Room Database • Git version control • Android Studio and Gradle • Jetpack Compose • Staying updated with industry trends • Problem-solving in Android • Collaborative Android app projects**
+- 💬 Ask me about *• Android app development using MVP/MVVM • REST API integration • Java and Kotlin programming • Retrofit and Room Database • Git version control • Android Studio and Gradle • Jetpack Compose • Staying updated with industry trends • Problem-solving in Android • Collaborative Android app projects*
 
 - 📫 How to reach me **amaz8144@gmail.com**
 
